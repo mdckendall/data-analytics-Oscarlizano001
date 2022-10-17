@@ -37,6 +37,7 @@ class Main {
 			case 4:
 		System.out.println("Current Students:");
 		while(fileScanner.hasNextLine()){
+		String name = fileScanner.nextLine();
 		arrayList.add(name);
 		
 		
