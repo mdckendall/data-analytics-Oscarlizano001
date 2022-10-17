@@ -25,16 +25,16 @@ class Main {
 		input = scanner.nextInt();
 		
 		switch(input){
-		case 1;
+		case 1:
 		System.out.println("$98,345 average salary in South Florida!");
 		break;
-		case 2;
+			case 2:
 		System.out.println("US News - 100 Best Jobs!");
 		break;
-		case 3;
+			case 3:
 		System.out.println("Top 10 Forbes In-Demand Jobs!");
 		break;
-		Case 4;
+		case 4;
 		System.out.println("Current Students:");
 		while(fileScanner.hasNextLine()){
 		arrayList.add(name);
